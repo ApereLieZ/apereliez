@@ -1,5 +1,5 @@
 Header
-## I`m a beginer software Engineer
+## I`m a beginer software engineer From Ukraine
 
 ### Languages and Tools
 ![Node js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
@@ -12,7 +12,3 @@ Header
 ![C](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)  
 ![C](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
 ![C](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-
-
-
-Follow Me
