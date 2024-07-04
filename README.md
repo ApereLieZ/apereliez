@@ -1,4 +1,4 @@
-## I´m a beginner software engineer From Ukraine
+## I´m a software engineer From Ukraine
 ### Languages and Tools
 ![Node js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
